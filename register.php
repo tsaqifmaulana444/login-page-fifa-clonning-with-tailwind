@@ -11,7 +11,7 @@ if(isset($_SESSION["id"])){
     <title>Register</title>
   </head>
   <body class="overflow-hidden">
-  <section class="bg-slate-500">
+  <section class="bg-slate-600">
   <div class="bg-grey-lighter min-h-screen flex flex-col relative">
     <div class="container max-w-lg mx-auto flex-1 flex flex-col items-center justify-center px-2">
       <div class="bg-slate-300 px-7 py-8 rounded shadow-gray-500 shadow-l text-black w-full">
